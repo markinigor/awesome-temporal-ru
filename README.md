@@ -16,6 +16,7 @@ Awesome Temporal (Rus)
 
 ### Видео
 + [Оркестрируй это! Описываем сложные бизнес процессы на PHP](https://youtu.be/0NCMEaFMj_M?si=NLa1fotbYWwrwAqk) (Антон Титов)
++ [Оркестрация и закон Мерфи: обрабатываем ошибки-бизнес процессов](https://www.youtube.com/watch?v=upL8o-OXYEc&ab_channel=PHPMinsk) (Антон Титов)
 + [Обзор новостей PHP 8.1, про temporal.io — инструмент Uber в PHP](https://www.youtube.com/live/3xhOWG8RzEY?si=4ranQEiRIDgrO_u9) (Антон Титов)
 + [PHP fwdays'21 Fault tolerant workflow orchestration on PHP](https://youtu.be/mNsjdTnanA4?si=SCc3bgD4hH0lDtuD) (Антон Титов)
 + [Разрабатываем Temporal Workflow на PHP для заказа пиццы](https://www.youtube.com/live/TG_XgyKHt10?si=LDaT2QSxlaGqXdMJ) (Павел Бучнев, Алексей Гагарин, Валерий Песчинский)
