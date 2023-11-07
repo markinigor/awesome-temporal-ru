@@ -26,6 +26,7 @@ Awesome Temporal (Rus)
 ### Статьи
 + [Распределенные Workflow на PHP. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/666154/) (Антон Титов)
 + [Распределенные Workflow на PHP. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/666158/) (Антон Титов)
++ [Мутации в микросервисах: применяем Temporal](https://habr.com/ru/articles/772084/)
 
 ----
 *Нашли материалы, которых еще нет в списке? Сообщество будет вам благодарно за Pull Request!*
